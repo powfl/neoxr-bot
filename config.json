@@ -1,22 +1,22 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6281779469215",
+   "owner_name": "Bagus Adi Harsono",
    "database": "data",
    "limit": 15,
    "ram_limit": "900mb",
-   "max_upload": 50,
-   "max_upload_free": 10,
-   "cooldown": 1,
+   "max_upload": 0,
+   "max_upload_free": 0,
+   "cooldown": 0,
    "timer": 180000,
    "timeout": 1800000,
-   "permanent_threshold": 3,
-   "notify_threshold": 4,
-   "banned_threshold": 5,
+   "permanent_threshold": 0,
+   "notify_threshold": 0,
+   "banned_threshold": 0,
    "blocks": ["994", "91", "92"],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017442
+      "number": 6281779469215
    },
    "replit_url": ""
 }
